@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "character": "SpiderHam",
+        "image": "https://ih0.redbubble.net/image.38978559.5058/flat,550x550,075,f.u1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "character": "SpiderPunk",
+        "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/0/03/Edge_of_Spider-Geddon_Vol_1_1_Textless.jpg/revision/latest?cb=20180523051009",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "character": "Spiderman-UK",
+        "image": "https://i.pinimg.com/originals/bc/82/51/bc8251fe3a95bc78bcd469171549fae9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "character": "Peni Parker",
+        "image": "https://i.pinimg.com/originals/96/53/d7/9653d72d6b16677174f7ad21821ba102.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "character": "Scarlet Spider",
+        "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/d/d7/Ben_Reilly_Scarlet_Spider_Vol_1_3_Textless.jpg/revision/latest/scale-to-width-down/250?cb=20170321191425",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "character": "Spiderman Noir",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "character": "SpiderGwen",
+        "image": "http://www.previewsworld.com/SiteImage/CatalogImage/STL097484?type=1",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "character": "Spiderman-2099",
+        "image": "https://i.redd.it/3sbpgdbwyeez.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "character": "Spiderwoman",
+        "image": "https://i.pinimg.com/originals/b8/13/a6/b813a6cef9958ca654418898c2c828ba.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "character": "Miles Morales",
+        "image": "https://vignette.wikia.nocookie.net/spidey4844/images/3/36/Miles_Transparent.png/revision/latest?cb=20170808100111",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "character": "Iron Spider",
+        "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/7/7a/Spider-Man_Vol_1_235_Textless.jpg/revision/latest?cb=20170919191552",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "character": "Spiderman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png",
+        "clicked": false
+    }
+]
