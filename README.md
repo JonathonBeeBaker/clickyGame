@@ -1,5 +1,9 @@
 # SpiderMan clicky game
+<<<<<<< HEAD
 This project is a memory game createdf in React.
+=======
+This project is a memory game created in React.
+>>>>>>> 4391f19b86983e6495e01e04a5e281022fa74852
 
 Click of the following link to preview the completed assignment: 
 
