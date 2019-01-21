@@ -1,5 +1,5 @@
-# community-clicky-game
-This project is a memory game createdf in React.
+# SpiderMan clicky game
+This project is a memory game created in React.
 
 Click of the following link to preview the completed assignment: 
 
